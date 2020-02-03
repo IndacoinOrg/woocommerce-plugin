@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: WooCommerce Indacoin Payment Gateway
+ * Plugin Name: Indacoin Payment Gateway
  * Plugin URI: https://github.com/IndacoinOrg/woocommerce-plugin
  * Description: Take credit card payments on your store.
  * Author: Indacoin
